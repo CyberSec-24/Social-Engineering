@@ -1,0 +1,43 @@
+-> Phishing is a technique in which an attacker sends an email or provides a link falsely claiming to be from a legitimate site to acquire a user’s personal or account information.
+
+-> The attacker registers a fake domain name, builds a lookalike website, and then mails the fake website’s link to users.
+
+-> Phishing tools can be used by attackers to generate fake login pages to capture usernames and passwords, send spoofed emails, and obtain the victim’s IP address and session cookies. 
+
+-> This information can further be used by the attacker, who will use it to impersonate a legitimate user and launch further attacks on the target organization.
+
+-> Spear phishing messages seem to come from a trusted source with an official-looking website. The email also appears to be from an individual from the recipient's company, generally someone in a position of authority. 
+-> In reality, the message is sent by an attacker attempting to obtain critical information about a specific recipient and their organization, such as login credentials, 
+
+-> A whaling attack is a type of phishing that targets high profile executives like CEO, CFO, politicians, and celebrities who have complete access to confidential and highly valuable information.
+-> It is a social engineering trick in which the attacker tricks the victim into revealing critical corporate and personal information 
+
+-> Pharming is a social engineering technique in which the attacker executes malicious programs on a victim’s computer or server, and when the victim enters any URL or domain name
+->  it automatically redirects the victim’s traffic to an attacker-controlled website. This attack is also known as “Phishing without a Lure.” The attacker steals confidential information like credentials
+
+->  When the victim enters the target website’s URL in the browser's address bar, a request is sent to the DNS server to obtain the IP address of the target website.
+-> The DNS server returns a fake IP address that is already modified by the attacker
+
+-> An attacker sends a malicious code as an email attachment.
+-> When the user clicks on the attachment, the code executes and modifies local host files on the user’s computer.
+
+-> SPIM (Spam over Instant Messaging) exploits Instant Messaging platforms and uses IM as a tool to spread spam.
+-> A person who generates spam over IM is called Spimmer. Spimmers generally make use of bots (an application that executes automated tasks over the network) to harvest Instant Message IDs and forward spam messages to them
+
+-> Clone phishing attack is a type of phishing attack where the attacker creates a replica (or "clone") of a legitimate email, website, or other digital content.
+->  Initially, the attacker creates a nearly identical copy of a legitimate communication, which contains a link or attachment and may have been previously received in its original form
+
+-> E-wallet phishing attacks target users of electronic wallets, also known as e-wallets or digital wallets.
+-> E-wallets are digital systems that allow users to store, manage, and transact with their financial assets electronically. These attacks aim to trick users into revealing their login credentials, personal information,
+
+-> Tabnabbing and reverse tabnabbing are social engineering attacks that target web users who have multiple tabs open in their web browser.
+-> These attacks exploit the user's tendency to switch between tabs without always checking the content of each tab. In the tabnabbing attack, a malicious actor crafts a webpage with code that detects when the user switches to another tab
+->  While the user is focused on another tab, the malicious webpage dynamically changes its content to mimic a legitimate website that the user might have opened in one of their other tabs, such as a login page or a banking
+
+-> Consent phishing is a type of social engineering attack that exploits the OAuth authentication protocol used by web services such as Google, Facebook, and Microsoft. 
+-> n this attack, the attacker develops a legitimate-looking fake application or website and lures the victim to visit it through various means, such as phishing emails, social media posts, or online advertisements. 
+-> Once the victim is on the site, the attacker uses persuasive language or misleading tactics to prompt the victim to grant permissions to access their account
+
+-> Search engine phishing is a social engineering technique that involves attackers manipulating search engine results, leading users to visit fraudulent websites crafted to steal sensitive information or distribute malware
+-> Attackers utilize various techniques such as search engine optimization (SEO) manipulation, keyword stuffing, etc. to ensure their malicious websites or content rank highly in search results for specific keywords or queries.
+
